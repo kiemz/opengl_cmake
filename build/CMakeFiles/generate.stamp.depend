@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+E:/CMakeProject/CMakeLists.txt
+E:/CMakeProject/build/CMakeFiles/3.24.0/CMakeCCompiler.cmake
+E:/CMakeProject/build/CMakeFiles/3.24.0/CMakeCXXCompiler.cmake
+E:/CMakeProject/build/CMakeFiles/3.24.0/CMakeRCCompiler.cmake
+E:/CMakeProject/build/CMakeFiles/3.24.0/CMakeSystem.cmake
+E:/cmake/share/cmake-3.24/Modules/CMakeCInformation.cmake
+E:/cmake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake
+E:/cmake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake
+E:/cmake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake
+E:/cmake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake
+E:/cmake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake
+E:/cmake/share/cmake-3.24/Modules/CMakeRCInformation.cmake
+E:/cmake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake
+E:/cmake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake
+E:/cmake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+E:/cmake/share/cmake-3.24/Modules/Compiler/MSVC-C.cmake
+E:/cmake/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake
+E:/cmake/share/cmake-3.24/Modules/Compiler/MSVC.cmake
+E:/cmake/share/cmake-3.24/Modules/Platform/Windows-MSVC-C.cmake
+E:/cmake/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake
+E:/cmake/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
+E:/cmake/share/cmake-3.24/Modules/Platform/Windows.cmake
+E:/cmake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake
