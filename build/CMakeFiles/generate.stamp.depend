@@ -1,5 +1,6 @@
 # CMake generation dependency list for this directory.
 E:/CMakeProject/CMakeLists.txt
+E:/CMakeProject/CMakeProject/helpers/RootDir.h.in
 E:/CMakeProject/build/CMakeFiles/3.24.0/CMakeCCompiler.cmake
 E:/CMakeProject/build/CMakeFiles/3.24.0/CMakeCXXCompiler.cmake
 E:/CMakeProject/build/CMakeFiles/3.24.0/CMakeRCCompiler.cmake
